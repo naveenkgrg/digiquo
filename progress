@@ -5,3 +5,9 @@
         4) duplicacy and pre existance
         5) basic grammer
         
+Addition to the points :
+We need to prepare a onboarding document which will provide quick guide for any new members to join the effort .
+For example: tools in use . login process and basic info about the projectss.
+2. We need to come up with Meta data/tags which will be associate with each article.
+3. We need to develop front page to add articles into the system ( no direct artical insertion into DB).
+4. We might need to add some simple authentication for now into the website so that we can get article author name. 
